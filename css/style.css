@@ -29,6 +29,7 @@ body{
 header{
     background-color: white;
     block-size: 100px;
+    backw
     
 }
 
@@ -37,6 +38,20 @@ main{
 }
 
 #task{
-    background-color: aqua;
-    
+    background-color: #47ADF1;
+    margin: 30px 30px;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+}
+
+#section{
+    background-color: #47ADF1;
+    margin: 30px 30px;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+
 }
