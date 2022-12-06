@@ -12,12 +12,18 @@ body{
 
 .main-logo{
     block-size: 70px;
+    position: absolute;
+    left: 10px;
+    top: 15px;
     
 }
 
 .fontlogo{
-    display: inline-block;
+    display: block;
     font-size: 60px;
+    position: absolute;
+    top: 11px;
+    left: 90px;
 }
 
 header{
