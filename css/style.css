@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;    
+    /*ATTENTO 
+    da fare ogni volta che si inizia a lavorare */
+}
+
+body{
+    background-color: lightgrey;
+}
+
+.main-logo{
+    block-size: 70px;
+    
+}
+
+.fontlogo{
+    display: inline-block;
+    font-size: 60px;
+}
+
+header{
+    background-color: white;
+    block-size: 100px;
+    
+}
