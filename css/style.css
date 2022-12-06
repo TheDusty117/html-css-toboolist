@@ -29,12 +29,25 @@ body{
 header{
     background-color: white;
     block-size: 100px;
-    backw
+    
     
 }
 
-body{
-    
+main{
+    padding-top: 50px;
+}
+
+.doppio-tasto{
+    background-color: white;
+    height: 100px;
+    width: 800px;
+    border-radius: 10px;
+    border-color: grey;
+}
+
+.linea{
+    width: auto;
+    height: 2px;
 }
 
 .section-corpo{
