@@ -34,24 +34,53 @@ header{
 }
 
 main{
-    background-color;
+    background-color: ;
 }
 
-#task{
+#button-task{
     background-color: #47ADF1;
-    margin: 30px 30px;
+    margin: 30px 5px;
     width: 100px;
-    height: 40px;
-    border-radius: 10px;
+    height: 35px;
+    border-radius: 7px;
     color: white;
 }
 
-#section{
-    background-color: #47ADF1;
-    margin: 30px 30px;
-    width: 100px;
-    height: 40px;
-    border-radius: 10px;
-    color: white;
+#button-section{
+    background-color: white;
+    margin: 30px 5px;
+    width: 120px;
+    height: 35px;
+    border-radius: 7px;
+    color: grey;
 
+}
+
+li{
+    margin: 20px 20px;
+    
+}
+
+.checkgreen{
+    border: 2px solid green;
+    border-radius: 100%;
+    color: green;
+}
+
+.editorial-spn{
+    color: white;
+    background-color: #47ADF1;
+    display: inline-block;
+    width: 100px;
+    height: 35px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+
+}
+
+.editorial-span{
+    background-color: #47ADF1;
+    border-color: #47ADF1;
+    display: inline-block;
+    width
 }
