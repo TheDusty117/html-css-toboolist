@@ -33,8 +33,15 @@ header{
     
 }
 
-main{
-    background-color: ;
+body{
+    
+}
+
+.section-corpo{
+    background-color: white;
+    height: 600px;
+    width: 800px;
+    border-radius: 10px;
 }
 
 #button-task{
@@ -67,20 +74,74 @@ li{
     color: green;
 }
 
-.editorial-spn{
-    color: white;
-    background-color: #47ADF1;
-    display: inline-block;
-    width: 100px;
-    height: 35px;
-    padding-left: 20px;
-    padding-bottom: 10px;
-
+.denyred{
+    border: 2px solid red;
+    border-radius: 100%;
+    color: red;
 }
 
 .editorial-span{
     background-color: #47ADF1;
-    border-color: #47ADF1;
-    display: inline-block;
-    width
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    border-radius: 10px;
+    color: white;
+}
+
+.goals-span{
+    background-color: #703aad;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    border-radius: 10px;
+    color: white;
+}
+
+.recruiting-span{
+    background-color: #2b804c;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    border-radius: 10px;
+    color: white;
+}
+
+.mobile-span{
+    background-color: #e09028;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    border-radius: 10px;
+    color: white;
+}
+
+.website-span{
+    background-color: #be1da9;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    border-radius: 10px;
+    color: white;
+}
+
+.sales-span{
+    background-color: #74ac1a;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    border-radius: 10px;
+    color: white;
 }
