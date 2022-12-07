@@ -33,6 +33,11 @@ header{
     
 }
 
+/* distanziato anche l'h2 per allinearlo al resto */
+h2{
+    padding-left: 15px;
+}
+
 main{
     margin: 0 auto;
     max-width: 900px;
