@@ -46,7 +46,6 @@ main{
 
 .doppio-tasto{
     background-color: white;
-    width: 800px;
     border-radius: 10px;
     border-color: grey;
 }
@@ -63,7 +62,7 @@ ul{
 
 .section-corpo{
     background-color: white;
-    width: 800px;
+    width: auto;
     border-radius: 10px;
 }
 
@@ -172,3 +171,4 @@ li{
 .partefinale{
     border-bottom: 40px solid white;
 }
+

@@ -1,0 +1,25 @@
+ESERCIZIO TOBOOLIST
+
+per inserire il font, prenderemo due varianti e versioni per l'esercizio,
+si va sul pulsante a dx meno per selezionare, 
+andare al "carrelo",
+lo applico in 2 modi
+
+-in html scrivo
+con i Tag link sotto nel carrello su google fonts, "use on the web"
+
+-in css scrivo:
+html {
+   font family: 'Open Sans', sans-serif:
+
+
+2
+prendo il tag style(sempre sotto il carrello)
+si puo prendere il tag style e inserirlo nell, Head di HTML
+oppure prendere il link ed inserirlo nel foglio di stile CSS
+
+IMPORTANTE, 
+Nell' esercizio che ho fatto, distanziare il main dall'header
+BISOGNA USARE IL PADDING, proprio come ho fatto io.
+perche' stiamo distanziando un contenuto dai bordi del suo contenitore.
+*****************
